@@ -42,4 +42,4 @@ Este sistema está diseñado para facilitar el control y organización de una cl
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/isairey/SistemaGestionVeterinaria.git
